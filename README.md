@@ -40,7 +40,7 @@ So this was a fun game <i>(really? 🤪)</i> made as a practice while learning <
 Often on different webpages you might have noticed that you can input limited characters in a field or input <i>(in html language)</i>.<br>
 Ever wondered how we could implement it using Python? <br>
 Have a look!<br>
-This code allows **Name** field to be more than 2 characters and less than 25 characters.<br>
+This code allows <b>Name</b> field to be more than 2 characters and less than 25 characters.<br>
 <pre>
 <i>Enter your name : Dharma
 Name looks good! <br>
@@ -56,3 +56,7 @@ Name must be less than 25 characters!
 Name Length: 28</i>
 </pre>
 Thats how a field length could be calculated and allow passing of values under required conditons.
+
+
+Thanks for visiting this repository! 👍 <br>
+Star it if you enjoyed it. 🌟 <br>
