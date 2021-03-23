@@ -34,8 +34,25 @@ PS: When you run the code, you see a tip.
  >>> quit
  Hope to see you soon.</i>
 </pre>
-So this was a fun game <i>(really?)</i> made as a practice while learning <b>Loops and Conditional Statements</b>
+So this was a fun game <i>(really? 🤪)</i> made as a practice while learning <b>Loops and Conditional Statements</b>
 
 <h3>3. Field Length Notifier</h3>
 Often on different webpages you might have noticed that you can input limited characters in a field or input <i>(in html language)</i>.<br>
-Ever wondered how we could implement it using Python? 
+Ever wondered how we could implement it using Python? <br>
+Have a look!<br>
+This code allows **Name** field to be more than 2 characters and less than 25 characters.<br>
+<pre>
+<i>Enter your name : Dharma
+Name looks good! <br>
+
+#---If name is less than 3 characters
+Enter your name : dh
+Name must be at east 3 characters long!
+
+
+#---If name is more than 25 characters
+Enter your name : dharmamamamamamamamamamamama
+Name must be less than 25 characters!
+Name Length: 28</i>
+</pre>
+Thats how a field length could be calculated and allow passing of values under required conditons.
