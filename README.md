@@ -72,9 +72,8 @@ Hey 🙂 <br>
 Good Morning 💓 <br>
 > You are so funny xD
 You are so funny 🤣</i></pre>
-This is how it can convert symbolic emoji to a graphical emoji. <br><br>
+This is how it can convert symbolic emoji to a graphical emoji. <br>
 
 
-<h4> To run any of the above programs, download ⬇️ the code and install PyCharm on your computer 💻  Have Fun!</h4><br>
-Thanks for visiting this repository! 👍 <br>
-Star it if you enjoyed it. 🌟 <br>
+<h4> To run any of the above programs, download ⬇️ the code and install PyCharm on your computer 💻  Have Fun!</h4>
+Thanks for visiting this repository! 👍 ||  Star it if you enjoyed it. 🌟 <br>
