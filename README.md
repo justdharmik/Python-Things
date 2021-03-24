@@ -14,7 +14,7 @@ In this way, convert kilos to pounds or vice versa and play around!
 
 <h3>2. The Car Engine.</h3>
 This code consist of a non GUI game (not a exactly a game) which one can play around and enjoy.<br>
-You can turn ON/OFF an imaginary car :car: 
+You can turn ON/OFF an imaginary car. :car: 
 Let me show you...
 PS: When you run the code, you see a tip.
 <pre>
@@ -34,7 +34,7 @@ PS: When you run the code, you see a tip.
  >>> quit
  Hope to see you soon.</i>
 </pre>
-So this was a fun game <i>(really? 🤪)</i> made as a practice while learning <b>Loops and Conditional Statements</b>
+So this was a fun game <i>(really? 🤪)</i> made as a practice while learning <b>Loops and Conditional Statements.</b>
 
 <h3>3. Field Length Notifier.</h3>
 Often on different webpages you might have noticed that you can input limited characters in a field or input <i>(in html language)</i>.<br>
