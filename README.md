@@ -59,7 +59,7 @@ Thats how a field length could be calculated and allow passing of values under r
 
 <h3>4. The Emoji.</h3>
 Often using emojis on desktop is but difficult as the physical keyboard doesn't have emojis.<br> Though there are many shortcuts and solutions available on the internet, this program can convert symbolic emojis to graphical emojis easily. How? i used a dictionary which consist of a symbolic = graphical emoji data. <br>
-Here's and example
+Here is an example:
 <pre><i>Tips : 
 :) - Smiley
 :( - Sad
