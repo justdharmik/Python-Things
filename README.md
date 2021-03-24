@@ -60,23 +60,21 @@ Thats how a field length could be calculated and allow passing of values under r
 <h3>4. The Emoji.</h3>
 Often using emojis on desktop is but difficult as the physical keyboard doesn't have emojis.<br> Though there are many shortcuts and solutions available on the internet, this program can convert symbolic emojis to graphical emojis easily. How? i used a dictionary which consist of a symbolic = graphical emoji data. <br>
 Here's and example
-<pre><i>
-Tips : 
+<pre><i>Tips : 
 :) - Smiley
 :( - Sad
 xD - Laugh
 -_- - Groan
-<3 - Heart <br><br>
+<3 - Heart <br>
 > Hey :)
-Hey 🙂 <br><br>
+Hey 🙂 <br>
 > Good Morning <3
-Good Morning 💓 <br><br>
+Good Morning 💓 <br>
 > You are so funny xD
-You are so funny 🤣 <br><br>
-</i></pre>
+You are so funny 🤣</i></pre>
 This is how it can convert symbolic emoji to a graphical emoji. <br><br>
 
 
-<h4> To run any of the above programs, download ⬇️ the code and install PyCharm on your computer 💻  Have Fun!
+<h4> To run any of the above programs, download ⬇️ the code and install PyCharm on your computer 💻  Have Fun!</h4><br>
 Thanks for visiting this repository! 👍 <br>
 Star it if you enjoyed it. 🌟 <br>
