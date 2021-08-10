@@ -15,8 +15,8 @@ In this way, convert kilos to pounds or vice versa and play around!
 <h3>2. The Car Engine.</h3>
 This code consist of a non GUI game (not a exactly a game) which one can play around and enjoy.<br>
 You can turn ON/OFF an imaginary car. :car: 
-Let me show you...
-PS: When you run the code, you see a tip.
+Let me show you...<br>
+<i>PS: When you run the code, ask for 'help'.</i>
 <pre>
 <i> Tip - try using 'help'
  >>> help
@@ -37,7 +37,7 @@ PS: When you run the code, you see a tip.
 So this was a fun game <i>(really? 🤪)</i> made as a practice while learning <b>Loops and Conditional Statements.</b>
 
 <h3>3. Field Length Notifier.</h3>
-Often on different webpages you might have noticed that you can input limited characters in a field or input <i>(in html language)</i>.<br>
+Often on different webpages you might have noticed that you can input limited characters in a field or input <i>(in password fields mostly/i>.<br>
 Ever wondered how we could implement it using Python? <br>
 Have a look!<br>
 This code allows <b>Name</b> field to be more than 2 characters and less than 25 characters.<br>
@@ -74,6 +74,15 @@ Good Morning 💓 <br>
 You are so funny 🤣</i></pre>
 This is how it can convert symbolic emoji to a graphical emoji. <br>
 
+<h3>5. Search.</h3>
+A simple program to find if a word exists in the provided text string or not. Both the fields, Text and the Word are given by user in this case. Using simple If Else conditions, we can make this simple program a go!<br>
+<pre><i>Enter the text:
+>>> Hello World
+Enter the word:
+>>> World
+Word Found! "World" in "Hello World"
+</i></pre>
+See? It is that simple. ;)
 
 <h4> To run any of the above programs, download ⬇️ the code and install PyCharm on your computer 💻  Have Fun!</h4>
 Thanks for visiting this repository! 👍 ||  Star it if you enjoyed it. 🌟 <br>
