@@ -1,11 +1,13 @@
 def search(text, word):
     if word in text:
-        result = 'Word found'
+        result = f'Word found! "{word}" in "{text}"'
     else:
         result = 'Word not found'
     return result
 
-text = input()
-word = input()
+#text = input("Enter the text: ")
+#word = input("Enter the word: ")
+text = "Hello There"
+word = "Hello"
 
 print(search(text, word))
