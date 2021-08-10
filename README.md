@@ -37,7 +37,7 @@ Let me show you...<br>
 So this was a fun game <i>(really? 🤪)</i> made as a practice while learning <b>Loops and Conditional Statements.</b>
 
 <h3>3. Field Length Notifier.</h3>
-Often on different webpages you might have noticed that you can input limited characters in a field or input <i>(in password fields mostly/i>.<br>
+Often on different webpages you might have noticed that you can input limited characters in a field or input <i>(in password fields mostly)</i>.<br>
 Ever wondered how we could implement it using Python? <br>
 Have a look!<br>
 This code allows <b>Name</b> field to be more than 2 characters and less than 25 characters.<br>
@@ -53,8 +53,8 @@ Name must be at east 3 characters long!
 #---If name is more than 25 characters
 Enter your name : dharmamamamamamamamamamamama
 Name must be less than 25 characters!
-Name Length: 28</i>
-</pre>
+Name Length: 28
+</i></pre>
 Thats how a field length could be calculated and allow passing of values under required conditons.
 
 <h3>4. The Emoji.</h3>
