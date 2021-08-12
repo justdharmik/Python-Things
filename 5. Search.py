@@ -8,13 +8,13 @@ def search(text, word, count):
                 count += 1
     else:
         result = "Word not found!"
-    print(f'Instances: {count}')
+    print(f"Instances: {count}")
     return result
 
 #text = input("Enter the text: ")
 #word = input("Enter the word: ")
-text = "Dharmik Says Hello there"
-word = "Hello"
+text = "Dharmik Says Hello there"    #comment this for using input text
+word = "Hello"                       #comment this for using input word
 count = 0
 lst = []
 print(search(text, word, count))
