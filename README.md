@@ -76,6 +76,7 @@ This is how it can convert symbolic emoji to a graphical emoji. <br>
 
 <h3>5. Search.</h3>
 A simple program to find if a word exists in the provided text string or not. Both the fields, Text and the Word are given by user in this case. Using simple If Else conditions, we can make this simple program a go!<br>
+<i><b>Note: </b>It is case sensitive okay.</i>
 <pre><i>Enter the text:
 >>> Hello World
 Enter the word:
