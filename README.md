@@ -82,7 +82,7 @@ Enter the word:
 >>> World
 Word Found! "World" in "Hello World"
 </i></pre>
-See? It is that simple. ;)
-
+See? It is that simple. ;) <br>
+<i>Update: Now it can show how many times the word exists in the text.</i><br>
 <h4> To run any of the above programs, download ⬇️ the code and install PyCharm on your computer 💻  Have Fun!</h4>
 Thanks for visiting this repository! 👍 ||  Star it if you enjoyed it. 🌟 <br>
